@@ -10,6 +10,6 @@ group :server do
   gem "mysql",  "2.8.1"
   gem "mysql2", "0.2.6"
   gem "pg",     "0.9.0"
-  gem "thin",   "> 1.2.0"
+  gem "thin", ">= 1.3.1"
 end
 
